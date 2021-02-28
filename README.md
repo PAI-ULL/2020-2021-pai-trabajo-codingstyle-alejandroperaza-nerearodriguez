@@ -3,6 +3,7 @@ This directory is organised as follows:
 
       .
       ├── bib                             # Assignment bibliography
+      ├── questionary                     # Contains the questionary
       ├── slides                          # Slides of the presentation
       ├── src                             # Source code with examples to enforce the presentation
             ├── ESLint                    # Source code with ESLint examples
