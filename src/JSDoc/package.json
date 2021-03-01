@@ -6,13 +6,13 @@
   "type": "module",
   "dependencies": {
     "docdash": "^1.2.0",
-    "jaguarjs-jsdoc": "^1.1.0",
-    "jsdoc": "^3.6.6"
+    "jaguarjs-jsdoc": "^1.1.0"
   },
   "scripts": {
     "docs": "jsdoc -c jsdoc.json"
   },
   "devDependencies": {
+    "jsdoc": "^3.6.6",
     "tui-jsdoc-template": "^1.2.2"
   }
 }

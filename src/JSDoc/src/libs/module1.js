@@ -18,7 +18,6 @@
  * @param {Number} base_number  Value to be squared
  * @return {Number} The given number squared
  */
-
 const square = (base_number) => {
   return Math.pow(base_number, 2);
 }

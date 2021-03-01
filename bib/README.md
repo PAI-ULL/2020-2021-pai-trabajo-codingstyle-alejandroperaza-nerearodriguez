@@ -11,7 +11,7 @@
 All references and additional materials used in our project are listed bellow.
 All the material that has been included can be used by yhe students for the verification of the exposed contents as well as for the learning of the contents that will be evaluated in this subject.
 
-## Material used for JsDoc 📑
+## Material used for JSDoc 📑
 
 * [JsDoc Tutorial](https://www.youtube.com/watch?v=r0H-acWQS6c&ab_channel=Fazt)
 
