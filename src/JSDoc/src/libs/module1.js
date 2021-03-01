@@ -29,7 +29,7 @@ const square = (base_number) => {
  */
 function squareRoot(radicand) {
   return Math.sqrt(radicand);
-};
+}
 
 
 export {square, squareRoot}
