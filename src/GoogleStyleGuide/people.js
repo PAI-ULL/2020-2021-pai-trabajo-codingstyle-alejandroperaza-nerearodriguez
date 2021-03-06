@@ -7,7 +7,7 @@
  * @author Alejandro Peraza González
  * @author Nerea Rodríguez Hernández
  * @date 28 February 2021
- * @brief How to correctly implemente Class according to the Google Style Guide
+ * @brief How to correctly implement a Class according to the Google Style Guide
  * 
  * @see https://google.github.io/styleguide/jsguide.html#features-classes
  */
