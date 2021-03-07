@@ -14,6 +14,7 @@
 
 /**
  * First letter of class name capitalized
+ * @class People
  */
 class People {
   // Blocks must be indented with two spaces
@@ -25,7 +26,7 @@ class People {
     return this.name;
   }
 
-  // Function name must follow the lowerCamelCase
+  // Function name must follow lowerCamelCase
   reallyLongFuctionName(date) {
     let stringDate = ' ';
     stringDate = 'Is a special day because today ' 

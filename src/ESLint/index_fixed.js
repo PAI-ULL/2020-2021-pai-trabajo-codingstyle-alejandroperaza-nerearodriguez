@@ -33,7 +33,6 @@ function steps(givenNumber) {
       number = 3 * number + 1;
     }
   }
-
   return numberOfSteps;
 };
 
