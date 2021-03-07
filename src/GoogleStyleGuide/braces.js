@@ -1,5 +1,5 @@
 /**
- * University of La Laguna
+ * University of La Laguna 
  * ESIT (Escuela Superior de Ingeniería y Tecnología)
  * Degree of Computer Engineering
  * Interactive Application Programming
@@ -17,7 +17,7 @@
  * Braces follow the egyptian brackets style.
  * First Example:
  */
-var pretty = new Boolean(false); //One statement per line
+let pretty = new Boolean(false); //One statement per line
 
 if (pretty == false) {
   consologe.log("You are not pretty.");

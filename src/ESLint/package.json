@@ -1,0 +1,12 @@
+{
+  "name": "eslint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alejandro Peraza-Gonzalez <alu0101211770@ull.edu.es> (https://github.com/alu0101211770)",
+  "license": "ISC"
+}
